@@ -17,7 +17,7 @@ A neo-grotesque superfamily designed and drawn from scratch by [BRND](https://ww
   - **BRND ProType Variable**: weight from 300 to 900 and width from 88.1 to 114.5 (Condensed to Extended), with 21 named instances.
   - **BRND ProType Variable Italic**: weight from 300 to 900, with 7 named instances.
   - **BRND ProType Mono Variable**: weight from 300 to 900, with 7 named instances.
-- 566 characters per style (561 in Mono): Latin-1 and extended Latin, punctuation, figures, currencies, fractions, arrows, geometric shapes and symbols.
+- 566 characters per style (561 in Mono): the Latin alphabet with its accented letters, punctuation, figures, currencies, fractions, arrows, geometric shapes and symbols.
 - OpenType features: kerning, ligatures (ff fi fl ffi ffl), automatic fractions, numerators and denominators, case-sensitive forms and combining accents.
 - Drawn with a low node count, so it also works well in physical applications, from plotter cutting to embroidery.
 
