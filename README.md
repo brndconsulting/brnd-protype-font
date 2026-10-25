@@ -1,6 +1,6 @@
 # BRND ProType
 
-![BRND ProType](images/cover.png)
+![BRND ProType: the word ProType from margin to margin, each letter in one of the seven weights](images/protype-01-brnd-protype.webp)
 
 A neo-grotesque superfamily designed and drawn from scratch by [BRND](https://www.brndconsulting.com) in Maracaibo, Venezuela. Free for personal and commercial use under the SIL Open Font License 1.1.
 
@@ -21,17 +21,47 @@ A neo-grotesque superfamily designed and drawn from scratch by [BRND](https://ww
 - OpenType features: kerning, ligatures (ff fi fl ffi ffl), automatic fractions, numerators and denominators, case-sensitive forms and combining accents.
 - Drawn with a low node count, so it also works well in physical applications, from plotter cutting to embroidery.
 
-![Widths and weights](images/widths-and-weights.png)
+![Widths: Maracaibo, Venezuela in Condensed, Normal and Extended](images/protype-13-anchuras.webp)
 
-![Italics](images/italics.png)
+![Weights: the seven weights from Light 300 to Black 900](images/protype-05-pesos.webp)
 
-![Headlines](images/headlines.png)
+![Italics: the roman and italic a with their 10 degree slant](images/protype-15-italicas.webp)
 
-![Character set](images/character-set.png)
+![Mono: the fixed width of 620 units in seven weights](images/protype-17-mono.webp)
 
-![Figures and symbols](images/figures-and-symbols.png)
+![Construction: the S and the a in outline with their nodes and Bézier handles](images/protype-03-construccion.webp)
 
-![Mono](images/mono.png)
+## In use
+
+![Newspaper front page](images/protype-14-periodico.webp)
+
+![Metro station signage and map](images/protype-04-metro.webp)
+
+![Beer bottles and can](images/protype-16-envase.webp)
+
+![Mobile app for a lakeside park](images/protype-18-aplicacion.webp)
+
+![Music festival poster](images/protype-20-cartel.webp)
+
+![Tourism: the Catatumbo lightning](images/protype-10-turismo.webp)
+
+![Baseball scoreboard and line-up](images/protype-06-beisbol.webp)
+
+![Space mission timeline](images/protype-02-orbita.webp)
+
+![Architecture: museum facade with letter tower](images/protype-12-arquitectura.webp)
+
+![Museum room: type anatomy](images/protype-08-anatomia.webp)
+
+![Text: four columns at 27, 21, 16.5 and 13 px](images/protype-19-texto.webp)
+
+## Characters
+
+![Letters: the alphabet in Light, Regular and Black and every accented letter](images/protype-07-letras.webp)
+
+![Punctuation by group in Light, Regular and Black](images/protype-09-puntuacion.webp)
+
+![Symbols and figures by group in Light and Black](images/protype-11-simbolos.webp)
 
 ## What is in this repository
 
