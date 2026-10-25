@@ -1,0 +1,21 @@
+FONTLOG de BRND ProType
+
+Información básica
+
+Superfamilia neogrotesca de BRND Consulting. Sus contornos están dibujados desde cero, construidos por código con las medidas del MASTER del proyecto, sin contornos de otras fuentes. Aeonik, Aeonik Condensed y Extended Pro, Aeonik Mono y Helvetica Now Display sirvieron de referencia de estudio: se midieron sus renders y cómo se componen (proporciones, grosores y el blanco entre letras) para el espaciado y el kerning; ninguno de sus archivos forma parte de la fuente.
+
+Diseño y producción: BRND Consulting (https://brndconsulting.com).
+Licencia: SIL Open Font License 1.1, con el nombre reservado «BRND ProType» (OFL.txt).
+
+Esta versión (1.0.2)
+
+49 estilos; 566 caracteres por estilo (561 en la Mono).
+Funciones: kerning; ligaduras ﬀ ﬁ ﬂ ﬃ ﬄ (en el texto se ven como sus letras); fracciones automáticas (1/2, 3/4…); numeradores; denominadores; formas para mayúsculas (paréntesis, corchetes, llaves, ¿ y ¡); acentos combinantes.
+
+Historial
+
+2026-10-21 · 0.265: Versión de revisión: kerning de Condensed y Extended, ¿ y ¡ colgadas bien espaciadas, ningún par que se toque en los estilos de texto y fuentes para la web.
+2026-10-22 · 0.267: Versión de revisión con las tres fuentes variables (la de dos ejes, de Condensed a Extended y de Light a Black; la itálica y la Mono) y la ð de la Extended Black, la § de la Condensed Black y la ∑ de la Condensed Light corregidas.
+2026-10-22 · 1.0: Lanzamiento público: 49 estilos y tres variables; los símbolos que el sistema puede pintar como emoji (⚡ ⚪ ⚫, caritas, corazones, flechas y formas) se ven con su dibujo plano; la s con los remates y el ancho de la referencia. Pendiente para la 1.1: la ð, el ¤ y las flechas ↔ ↕ ↗ ↖ ↘ ↙ de la Condensed y la Extended medidos en su anchura.
+2026-10-23 · 1.0.1: Corrección de la Condensed y la Extended: el espacio entre palabras con el ancho de cada anchura (la Condensed llevaba el de la Normal, mucho más ancho); la raya y la raya corta con su largo; en los pesos gruesos, el arco de la n, la h, la m, la r y la u con el hueco redondeado arriba y no en punta; y los remates de la C y la G de la Condensed más verticales, como los de la referencia.
+2026-10-24 · 1.0.2: Las itálicas de la Condensed, de la Light a la Black: el arco de la n, la h, la m, la r y la u con el grueso de la referencia (en la 1.0.1 quedaba más liviano que el de la itálica de la referencia).

@@ -1,0 +1,469 @@
+/* BRND ProType: las fuentes para la web (make web). SIL Open Font License 1.1. */
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-stretch: 88.1%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 88.1%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-stretch: 88.1%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-stretch: 88.1%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-stretch: 88.1%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-stretch: 88.1%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-stretch: 88.1%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-stretch: 88.1%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 88.1%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-stretch: 88.1%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-stretch: 88.1%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-stretch: 88.1%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-ExtraBoldItalic.woff2") format("woff2");
+  font-weight: 800;
+  font-stretch: 88.1%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeCondensed-BlackItalic.woff2") format("woff2");
+  font-weight: 900;
+  font-stretch: 88.1%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-stretch: 100%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-stretch: 100%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-stretch: 100%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-stretch: 100%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-ExtraBoldItalic.woff2") format("woff2");
+  font-weight: 800;
+  font-stretch: 100%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProType-BlackItalic.woff2") format("woff2");
+  font-weight: 900;
+  font-stretch: 100%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-stretch: 114.5%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 114.5%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-stretch: 114.5%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-stretch: 114.5%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-stretch: 114.5%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-stretch: 114.5%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-stretch: 114.5%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-stretch: 114.5%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 114.5%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-stretch: 114.5%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-stretch: 114.5%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-stretch: 114.5%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-ExtraBoldItalic.woff2") format("woff2");
+  font-weight: 800;
+  font-stretch: 114.5%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType";
+  src: url("WOFF2/BRNDProTypeExtended-BlackItalic.woff2") format("woff2");
+  font-weight: 900;
+  font-stretch: 114.5%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Mono";
+  src: url("WOFF2/BRNDProTypeMono-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Mono";
+  src: url("WOFF2/BRNDProTypeMono-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Mono";
+  src: url("WOFF2/BRNDProTypeMono-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Mono";
+  src: url("WOFF2/BRNDProTypeMono-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Mono";
+  src: url("WOFF2/BRNDProTypeMono-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Mono";
+  src: url("WOFF2/BRNDProTypeMono-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Mono";
+  src: url("WOFF2/BRNDProTypeMono-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Variable";
+  src: url("WOFF2/BRNDProType-Variable.woff2") format("woff2");
+  font-weight: 300 900;
+  font-stretch: 88.1% 114.5%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Variable";
+  src: url("WOFF2/BRNDProType-VariableItalic.woff2") format("woff2");
+  font-weight: 300 900;
+  font-stretch: 100%;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProType Mono Variable";
+  src: url("WOFF2/BRNDProType-MonoVariable.woff2") format("woff2");
+  font-weight: 300 900;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
