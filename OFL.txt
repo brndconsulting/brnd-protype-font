@@ -1,4 +1,4 @@
-Copyright 2026 BRND Consulting, with Reserved Font Name "BRND ProType".
+Copyright 2026 BRND Consulting, with Reserved Font Names "BRND ProType", "BRND ProDigit" and "BRND ProLed".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

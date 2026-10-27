@@ -2,14 +2,14 @@ FONTLOG de BRND ProType
 
 Información básica
 
-Superfamilia neogrotesca de BRND Consulting. Sus contornos están dibujados desde cero, construidos por código con las medidas del MASTER del proyecto, sin contornos de otras fuentes. Aeonik, Aeonik Condensed y Extended Pro, Aeonik Mono y Helvetica Now Display sirvieron de referencia de estudio: se midieron sus renders y cómo se componen (proporciones, grosores y el blanco entre letras) para el espaciado y el kerning; ninguno de sus archivos forma parte de la fuente.
+Superfamilia neogrotesca de BRND Consulting. Sus contornos están dibujados desde cero, construidos por código con las medidas del MASTER del proyecto, sin contornos de otras fuentes. Aeonik, Aeonik Condensed y Extended Pro, Aeonik Mono y Helvetica Now Display sirvieron de referencia de estudio: se midieron sus renders y cómo se componen (proporciones, grosores y el blanco entre letras) para el espaciado y el kerning; ninguno de sus archivos forma parte de la fuente. BRND ProDigit (pantalla LCD de letras completas) y BRND ProLed (matriz de puntos de 5 × 7) son sus familias hermanas, con su propio nombre, construidas con el mismo código.
 
 Diseño y producción: BRND Consulting (https://brndconsulting.com).
-Licencia: SIL Open Font License 1.1, con el nombre reservado «BRND ProType» (OFL.txt).
+Licencia: SIL Open Font License 1.1, con los nombres reservados «BRND ProType», «BRND ProDigit» y «BRND ProLed» (OFL.txt).
 
-Esta versión (1.0.2)
+Esta versión (1.1)
 
-49 estilos; 566 caracteres por estilo (561 en la Mono).
+51 estilos; 566 caracteres por estilo (561 en la Mono, 105 en la ProDigit, 107 en la ProLed).
 Funciones: kerning; ligaduras ﬀ ﬁ ﬂ ﬃ ﬄ (en el texto se ven como sus letras); fracciones automáticas (1/2, 3/4…); numeradores; denominadores; formas para mayúsculas (paréntesis, corchetes, llaves, ¿ y ¡); acentos combinantes.
 
 Historial
@@ -19,3 +19,4 @@ Historial
 2026-10-22 · 1.0: Lanzamiento público: 49 estilos y tres variables; los símbolos que el sistema puede pintar como emoji (⚡ ⚪ ⚫, caritas, corazones, flechas y formas) se ven con su dibujo plano; la s con los remates y el ancho de la referencia. Pendiente para la 1.1: la ð, el ¤ y las flechas ↔ ↕ ↗ ↖ ↘ ↙ de la Condensed y la Extended medidos en su anchura.
 2026-10-23 · 1.0.1: Corrección de la Condensed y la Extended: el espacio entre palabras con el ancho de cada anchura (la Condensed llevaba el de la Normal, mucho más ancho); la raya y la raya corta con su largo; en los pesos gruesos, el arco de la n, la h, la m, la r y la u con el hueco redondeado arriba y no en punta; y los remates de la C y la G de la Condensed más verticales, como los de la referencia.
 2026-10-24 · 1.0.2: Las itálicas de la Condensed, de la Light a la Black: el arco de la n, la h, la m, la r y la u con el grueso de la referencia (en la 1.0.1 quedaba más liviano que el de la itálica de la referencia).
+2026-10-27 · 1.1: Dos fuentes nuevas, hermanas de BRND ProType: BRND ProDigit, de pantalla LCD con mayúsculas y minúsculas, y BRND ProLed, de matriz de puntos 5 × 7; las dos en Regular, con el alfabeto español y cortes que aguantan la impresión. La e de los pesos intermedios (de la Medium a la ExtraBold) y de las Black de la Condensed, la Extended y la Mono, con el ojo del tamaño del de la referencia (estaba más cerrado). La ð, el ¤ y las flechas ↔ ↕ ↗ ↖ ↘ ↙ de la Condensed y la Extended quedan para la 1.2.

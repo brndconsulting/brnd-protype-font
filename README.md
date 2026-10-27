@@ -21,6 +21,15 @@ A neo-grotesque superfamily designed and drawn from scratch by [BRND](https://ww
 - OpenType features: kerning, ligatures (ff fi fl ffi ffl), automatic fractions, numerators and denominators, case-sensitive forms and combining accents.
 - Drawn with a low node count, so it also works well in physical applications, from plotter cutting to embroidery.
 
+## Sister families
+
+Two screen typefaces built with the same code, each with its own name, in Regular:
+
+- **BRND ProDigit**: an LCD display face with upper and lowercase, 105 characters.
+- **BRND ProLed**: a 5 × 7 dot matrix with square dots, 107 characters.
+
+Both cover the Spanish alphabet, and the gaps inside each letter are sized to stay open in print.
+
 ![Widths: Maracaibo, Venezuela in Condensed, Normal and Extended](images/protype-13-anchuras.webp)
 
 ![Weights: the seven weights from Light 300 to Black 900](images/protype-05-pesos.webp)
@@ -69,9 +78,10 @@ A neo-grotesque superfamily designed and drawn from scratch by [BRND](https://ww
 | --- | --- |
 | `Normal/`, `Condensed/`, `Extended/` | 14 OTF files each: seven weights and their italics |
 | `Mono/` | 7 OTF files |
+| `ProDigit/`, `ProLed/` | BRND ProDigit Regular and BRND ProLed Regular (OTF) |
 | `Variable/` | The three variable fonts (OTF) |
 | `Web/` | WOFF2 for every style, `brnd-protype.css` with its `@font-face` rules, `ejemplo.html` and `glifos.html` |
-| `BRNDProType-1.0.2-especimen.pdf` | Specimen: widths, weights, every character and the features |
+| `BRNDProType-1.1-especimen.pdf` | Specimen: widths, weights, every character and the features |
 | `FONTLOG.txt` | Version history |
 | `OFL.txt` | License |
 | `SUMAS-SHA256.txt` | SHA-256 of every file: `shasum -a 256 -c SUMAS-SHA256.txt` |
@@ -82,7 +92,7 @@ The same package, as a single zip, is attached to each [release](https://github.
 
 - **Mac:** quit your apps with Cmd+Q, remove any earlier BRND ProType in Font Book, then double-click each `.otf` file and click Install.
 - **Windows:** remove any earlier BRND ProType in Settings > Personalization > Fonts, then right-click each `.otf` file and choose Install for all users.
-- Install either the static fonts or the variable fonts, not both in the same app.
+- Install either the static fonts or the variable fonts, not both in the same app. ProDigit and ProLed have no variable: install them from their folders.
 
 ## Web
 
@@ -102,11 +112,11 @@ code { font-family: "BRND ProType Mono"; }
 
 ## License
 
-Copyright 2026 BRND Consulting, with Reserved Font Name "BRND ProType". This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL.txt). You can use it, embed it and redistribute it, also in commercial work; modified versions must be released under another name.
+Copyright 2026 BRND Consulting, with Reserved Font Names "BRND ProType", "BRND ProDigit" and "BRND ProLed". This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL.txt). You can use it, embed it and redistribute it, also in commercial work; modified versions must be released under another name.
 
 ## Version
 
-1.0.2, 2026-10-24. The full history is in [FONTLOG.txt](FONTLOG.txt).
+1.1, 2026-10-27: adds BRND ProDigit and BRND ProLed, and opens the eye of the e in the middle weights (Medium to ExtraBold) of every width and in the Black of Condensed, Extended and Mono. The full history is in [FONTLOG.txt](FONTLOG.txt).
 
 ---
 
@@ -120,5 +130,6 @@ Superfamilia neogrotesca diseñada y dibujada desde cero por [BRND](https://www.
 - Tres fuentes variables: la de peso (300 a 900) y anchura (88,1 a 114,5), la itálica de peso y la Mono de peso.
 - 566 caracteres por estilo (561 en la Mono), con kerning, ligaduras, fracciones automáticas, numeradores, denominadores, formas para mayúsculas y acentos combinantes.
 - Dibujada con pocos nodos, para que funcione también en aplicaciones físicas, del corte en plotter al bordado.
+- Dos familias hermanas en Regular, con su propio nombre: BRND ProDigit, de pantalla LCD (105 caracteres), y BRND ProLed, de matriz de puntos de 5 × 7 (107 caracteres).
 
 Las instrucciones para instalarla están en [LEEME.txt](LEEME.txt) y el historial de versiones en [FONTLOG.txt](FONTLOG.txt).

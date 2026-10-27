@@ -1,15 +1,15 @@
-BRND ProType 1.0.2
+BRND ProType 1.1
 
-49 estilos OTF: Condensed, de Light a Black, cada uno con su itálica; Normal, de Light a Black, cada uno con su itálica; Extended, de Light a Black, cada uno con su itálica; Mono, de Light a Black. 566 caracteres por estilo (561 en la Mono).
+51 estilos OTF: Condensed, de Light a Black, cada uno con su itálica; Normal, de Light a Black, cada uno con su itálica; Extended, de Light a Black, cada uno con su itálica; Mono, de Light a Black; ProDigit, Regular; ProLed, Regular. 566 caracteres por estilo (561 en la Mono, 105 en la ProDigit, 107 en la ProLed).
 
 Antes de instalar:
 1. Mac: cierra las aplicaciones con Cmd+Q, borra en Catálogo Tipográfico las BRND ProType anteriores y abre cada archivo .otf con doble clic (Instalar).
 2. Windows: borra las BRND ProType anteriores en Configuración > Personalización > Fuentes, y en cada archivo .otf, clic derecho > Instalar para todos los usuarios.
-3. Instala las estáticas (Condensed, Normal, Extended y Mono) o las variables, no las dos a la vez en la misma aplicación.
+3. Instala las estáticas (Condensed, Normal, Extended y Mono) o las variables, no las dos a la vez en la misma aplicación. BRND ProDigit y BRND ProLed no tienen variable: se instalan desde sus carpetas.
 
 Variables: BRNDProType-Variable.otf, BRNDProType-VariableItalic.otf, BRNDProType-MonoVariable.otf.
 Web: WOFF2 de cada estilo, brnd-protype.css con su @font-face y ejemplo.html (abrir con un servidor local).
-Espécimen: BRNDProType-1.0.2-especimen.pdf (las anchuras, los pesos, todos los caracteres y las funciones).
+Espécimen: BRNDProType-1.1-especimen.pdf (las anchuras, los pesos, todos los caracteres y las funciones).
 
-Licencia: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org Copyright 2026 BRND Consulting, with Reserved Font Name "BRND ProType". El texto completo, en OFL.txt.
+Licencia: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org Copyright 2026 BRND Consulting, with Reserved Font Names "BRND ProType", "BRND ProDigit" and "BRND ProLed". El texto completo, en OFL.txt.
 SUMAS-SHA256.txt: la suma SHA-256 de cada archivo, para comprobar que llegó completo.

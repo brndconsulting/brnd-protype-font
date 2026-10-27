@@ -442,6 +442,24 @@
 }
 
 @font-face {
+  font-family: "BRND ProDigit";
+  src: url("WOFF2/BRNDProDigit-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BRND ProLed";
+  src: url("WOFF2/BRNDProLed-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: "BRND ProType Variable";
   src: url("WOFF2/BRNDProType-Variable.woff2") format("woff2");
   font-weight: 300 900;
