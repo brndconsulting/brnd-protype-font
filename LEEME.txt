@@ -1,4 +1,4 @@
-BRND ProType 1.1
+BRND ProType 1.1.1
 
 51 estilos OTF: Condensed, de Light a Black, cada uno con su itálica; Normal, de Light a Black, cada uno con su itálica; Extended, de Light a Black, cada uno con su itálica; Mono, de Light a Black; ProDigit, Regular; ProLed, Regular. 566 caracteres por estilo (561 en la Mono, 105 en la ProDigit, 107 en la ProLed).
 
@@ -9,7 +9,7 @@ Antes de instalar:
 
 Variables: BRNDProType-Variable.otf, BRNDProType-VariableItalic.otf, BRNDProType-MonoVariable.otf.
 Web: WOFF2 de cada estilo, brnd-protype.css con su @font-face y ejemplo.html (abrir con un servidor local).
-Espécimen: BRNDProType-1.1-especimen.pdf (las anchuras, los pesos, todos los caracteres y las funciones).
+Espécimen: BRNDProType-1.1.1-especimen.pdf (las anchuras, los pesos, todos los caracteres y las funciones).
 
 Licencia: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org Copyright 2026 BRND Consulting, with Reserved Font Names "BRND ProType", "BRND ProDigit" and "BRND ProLed". El texto completo, en OFL.txt.
 SUMAS-SHA256.txt: la suma SHA-256 de cada archivo, para comprobar que llegó completo.

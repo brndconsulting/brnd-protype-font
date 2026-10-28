@@ -81,7 +81,7 @@ Both cover the Spanish alphabet, and the gaps inside each letter are sized to st
 | `ProDigit/`, `ProLed/` | BRND ProDigit Regular and BRND ProLed Regular (OTF) |
 | `Variable/` | The three variable fonts (OTF) |
 | `Web/` | WOFF2 for every style, `brnd-protype.css` with its `@font-face` rules, `ejemplo.html` and `glifos.html` |
-| `BRNDProType-1.1-especimen.pdf` | Specimen: widths, weights, every character and the features |
+| `BRNDProType-1.1.1-especimen.pdf` | Specimen: widths, weights, every character and the features |
 | `FONTLOG.txt` | Version history |
 | `OFL.txt` | License |
 | `SUMAS-SHA256.txt` | SHA-256 of every file: `shasum -a 256 -c SUMAS-SHA256.txt` |
@@ -115,6 +115,8 @@ code { font-family: "BRND ProType Mono"; }
 Copyright 2026 BRND Consulting, with Reserved Font Names "BRND ProType", "BRND ProDigit" and "BRND ProLed". This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL.txt). You can use it, embed it and redistribute it, also in commercial work; modified versions must be released under another name.
 
 ## Version
+
+1.1.1, 2026-10-27: optical kerning for BRND ProDigit and BRND ProLed (each pair gets the air BRND ProType gives letters of the same shape, on top of their cells; with kerning off they stay on the screen grid). In BRND ProDigit, the lowercase f now has a crossbar through the stem (it read as an F), every figure is centred in its cell and the colon has the same air as the figures, so clock times look even.
 
 1.1, 2026-10-27: adds BRND ProDigit and BRND ProLed, and opens the eye of the e in the middle weights (Medium to ExtraBold) of every width and in the Black of Condensed, Extended and Mono. The full history is in [FONTLOG.txt](FONTLOG.txt).
 

@@ -7,7 +7,7 @@ Superfamilia neogrotesca de BRND Consulting. Sus contornos están dibujados desd
 Diseño y producción: BRND Consulting (https://brndconsulting.com).
 Licencia: SIL Open Font License 1.1, con los nombres reservados «BRND ProType», «BRND ProDigit» y «BRND ProLed» (OFL.txt).
 
-Esta versión (1.1)
+Esta versión (1.1.1)
 
 51 estilos; 566 caracteres por estilo (561 en la Mono, 105 en la ProDigit, 107 en la ProLed).
 Funciones: kerning; ligaduras ﬀ ﬁ ﬂ ﬃ ﬄ (en el texto se ven como sus letras); fracciones automáticas (1/2, 3/4…); numeradores; denominadores; formas para mayúsculas (paréntesis, corchetes, llaves, ¿ y ¡); acentos combinantes.
@@ -20,3 +20,4 @@ Historial
 2026-10-23 · 1.0.1: Corrección de la Condensed y la Extended: el espacio entre palabras con el ancho de cada anchura (la Condensed llevaba el de la Normal, mucho más ancho); la raya y la raya corta con su largo; en los pesos gruesos, el arco de la n, la h, la m, la r y la u con el hueco redondeado arriba y no en punta; y los remates de la C y la G de la Condensed más verticales, como los de la referencia.
 2026-10-24 · 1.0.2: Las itálicas de la Condensed, de la Light a la Black: el arco de la n, la h, la m, la r y la u con el grueso de la referencia (en la 1.0.1 quedaba más liviano que el de la itálica de la referencia).
 2026-10-27 · 1.1: Dos fuentes nuevas, hermanas de BRND ProType: BRND ProDigit, de pantalla LCD con mayúsculas y minúsculas, y BRND ProLed, de matriz de puntos 5 × 7; las dos en Regular, con el alfabeto español y cortes que aguantan la impresión. La e de los pesos intermedios (de la Medium a la ExtraBold) y de las Black de la Condensed, la Extended y la Mono, con el ojo del tamaño del de la referencia (estaba más cerrado). La ð, el ¤ y las flechas ↔ ↕ ↗ ↖ ↘ ↙ de la Condensed y la Extended quedan para la 1.2.
+2026-10-27 · 1.1.1: BRND ProDigit y BRND ProLed con kerning óptico: cada par con el aire que BRND ProType da a letras de la misma forma, encima de su celda (con el kerning apagado siguen siendo de pantalla). En BRND ProDigit, la f minúscula con la barra que cruza el asta (se leía como F), cada cifra centrada en su celda y los dos puntos con el mismo aire que las cifras, para que la hora se vea pareja.
