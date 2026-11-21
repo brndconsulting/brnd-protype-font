@@ -13,7 +13,7 @@ A neo-grotesque superfamily designed and drawn from scratch by [BRND](https://ww
 - 49 static styles in four families: Condensed, Normal, Extended and Mono.
 - Seven weights, from Light to Black (300 to 900).
 - Italics for Condensed, Normal and Extended: 21 italic styles.
-- Three variable fonts:
+- Three variable fonts, for the web only (WOFF2 in `Web/`):
   - **BRND ProType Variable**: weight from 300 to 900 and width from 88.1 to 114.5 (Condensed to Extended), with 21 named instances.
   - **BRND ProType Variable Italic**: weight from 300 to 900, with 7 named instances.
   - **BRND ProType Mono Variable**: weight from 300 to 900, with 7 named instances.
@@ -79,9 +79,8 @@ Both cover the Spanish alphabet, and the gaps inside each letter are sized to st
 | `Normal/`, `Condensed/`, `Extended/` | 14 OTF files each: seven weights and their italics |
 | `Mono/` | 7 OTF files |
 | `ProDigit/`, `ProLed/` | BRND ProDigit Regular and BRND ProLed Regular (OTF) |
-| `Variable/` | The three variable fonts (OTF) |
-| `Web/` | WOFF2 for every style, `brnd-protype.css` with its `@font-face` rules, `ejemplo.html` and `glifos.html` |
-| `BRNDProType-1.1.1-especimen.pdf` | Specimen: widths, weights, every character and the features |
+| `Web/` | WOFF2 for every style and the three variable fonts, `brnd-protype.css` with its `@font-face` rules, `ejemplo.html` and `glifos.html` |
+| `BRNDProType-1.1.2-especimen.pdf` | Specimen: widths, weights, every character and the features |
 | `FONTLOG.txt` | Version history |
 | `OFL.txt` | License |
 | `SUMAS-SHA256.txt` | SHA-256 of every file: `shasum -a 256 -c SUMAS-SHA256.txt` |
@@ -92,7 +91,7 @@ The same package, as a single zip, is attached to each [release](https://github.
 
 - **Mac:** quit your apps with Cmd+Q, remove any earlier BRND ProType in Font Book, then double-click each `.otf` file and click Install.
 - **Windows:** remove any earlier BRND ProType in Settings > Personalization > Fonts, then right-click each `.otf` file and choose Install for all users.
-- Install either the static fonts or the variable fonts, not both in the same app. ProDigit and ProLed have no variable: install them from their folders.
+- On a computer, install the static fonts. The variable fonts are for websites only and come as WOFF2 in `Web/`. Install ProDigit and ProLed from their folders.
 
 ## Web
 
@@ -116,6 +115,8 @@ Copyright 2026 BRND Consulting, with Reserved Font Names "BRND ProType", "BRND P
 
 ## Version
 
+1.1.2, 2026-11-19: the variable fonts are for the web only (WOFF2 in `Web/`; the desktop download carries the static fonts), and their names no longer repeat the width or the italic: the Mono variable was called "BRND ProType Mono Variable Mono Regular" and is now "BRND ProType Mono Variable". In Condensed and Extended, the c has its own measurements, with thicker terminals and arms with the tension of its reference (it inherited those of Normal). In Extended Black and the weights next to it, the & has the measurements of its width (it was narrow, like the Normal one). Apart from these letters and their kerning pairs, the drawing, spacing and kerning do not change.
+
 1.1.1, 2026-10-27: optical kerning for BRND ProDigit and BRND ProLed (each pair gets the air BRND ProType gives letters of the same shape, on top of their cells; with kerning off they stay on the screen grid). In BRND ProDigit, the lowercase f now has a crossbar through the stem (it read as an F), every figure is centred in its cell and the colon has the same air as the figures, so clock times look even.
 
 1.1, 2026-10-27: adds BRND ProDigit and BRND ProLed, and opens the eye of the e in the middle weights (Medium to ExtraBold) of every width and in the Black of Condensed, Extended and Mono. The full history is in [FONTLOG.txt](FONTLOG.txt).
@@ -129,7 +130,7 @@ Superfamilia neogrotesca diseñada y dibujada desde cero por [BRND](https://www.
 **Pruébala en línea y descárgala:** [BRND® ProType & Grid System](https://www.brndconsulting.com/post/brnd-protype-grid-system)
 
 - 49 estilos en cuatro familias: Condensed, Normal, Extended y Mono, en siete pesos de Light a Black. Condensed, Normal y Extended llevan además su itálica: 21 en total.
-- Tres fuentes variables: la de peso (300 a 900) y anchura (88,1 a 114,5), la itálica de peso y la Mono de peso.
+- Tres fuentes variables, solo para la web (WOFF2 en la carpeta Web): la de peso (300 a 900) y anchura (88,1 a 114,5), la itálica de peso y la Mono de peso.
 - 566 caracteres por estilo (561 en la Mono), con kerning, ligaduras, fracciones automáticas, numeradores, denominadores, formas para mayúsculas y acentos combinantes.
 - Dibujada con pocos nodos, para que funcione también en aplicaciones físicas, del corte en plotter al bordado.
 - Dos familias hermanas en Regular, con su propio nombre: BRND ProDigit, de pantalla LCD (105 caracteres), y BRND ProLed, de matriz de puntos de 5 × 7 (107 caracteres).
